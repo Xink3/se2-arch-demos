@@ -78,7 +78,7 @@ TEMPLATE = """
 </head>
 <body>
 <div class="wrap">
-  <h1>TaskFlowSyddd<span class="badge-layer">v2 layered</span></h1>
+  <h1>TaskFlow Sydney<span class="badge-layer">v2 layered</span></h1>
   <p class="sub">Same features as v1. Different inside.</p>
 
   <!-- Architecture note — visible during demo -->
