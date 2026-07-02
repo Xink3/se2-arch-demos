@@ -28,7 +28,7 @@ TEMPLATE = """
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>TaskFlow</title>
+  <title>TaskFlowSyd</title>
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
     body { font-family: Arial, sans-serif; background: #f0f2f5; padding: 32px 16px; color: #222; }
