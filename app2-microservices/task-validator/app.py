@@ -40,6 +40,9 @@ def health():
 @app.route("/validate", methods=["POST"])
 def validate():
     """
+    import time
+    time.sleep(10) 
+    
     Validates a task before it is created.
 
     Expects JSON:
